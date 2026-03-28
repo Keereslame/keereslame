@@ -1,4 +1,4 @@
-# 👨‍💻 My Portfolio
+# My Portfolio
 
 Welcome to my personal portfolio hosted with GitHub Pages.
 
@@ -8,45 +8,77 @@ Student at **École 42**, i have developed strong skills in programming, problem
 
 ---
 
-## 🏅 Skills
+## 📊 Projects in 42 Common core
 
-[![My Skills](https://skillicons.dev/icons?i=bash,c,cpp,debian,discord,github,linkedin,linux,vscode)](https://skillicons.dev)
+### 🔵 Circle 0
+
+| Project       | Score | Status  |
+|---------------|---------|-------|
+| libft         | 125%  | ✅ Passed |
+
+### 🔵 Circle 1
+
+| Project       | Score | Status  |
+|---------------|---------|-------|
+| ft_printf     | 100%  | ✅ Passed |
+| get_next_line | 101%  | ✅ Passed |
+| Born2beroot   | 100%  | ✅ Passed |
+
+### 🔵 Circle 2
+
+| Project       | Score | Status  |
+|---------------|---------|-------|
+| push_swap     | 84%   | ✅ Passed |
+| minitalk      | 90%   | ✅ Passed |
+| so_long       | 110%  | ✅ Passed |
+| Examen Rank 02| 100%  | ✅ Passed |
+
+### 🔵 Circle 3
+
+| Project       | Score | Status  |
+|---------------|---------|-------|
+| Philosophers  | 100%  | ✅ Passed |
+| minishell     | 101%  | ✅ Passed |
+| Exam Rank 03  | 100%  | ✅ Passed |
+
+### 🔵 Circle 4
+
+| Project       | Score | Status  |
+|---------------|---------|-------|
+| NetPractice   | 100%  | ✅ Passed |
+| Cpp_00        | 80%   | ✅ Passed |
+| Cpp_01        | 100%  | ✅ Passed |
+| Cpp_02        | 100%  | ✅ Passed |
+| Cpp_03        | 100%  | ✅ Passed |
+| Cpp_04        | 80%   | ✅ Passed |
+| cub3d         | 110%  | ✅ Passed |
+| Exam Rank 04  | 100%  | ✅ Passed |
+
+### 🔵 Circle 5
+
+| Project       | Score | Status  |
+|---------------|---------|-------|
+| Inception     | 0%    | ⏳ Pending / Waiting |
+| webserv       | 0%    | 🚧 In Progress |
+| Cpp_05        | 0%    | 🚧 In Progress |
+| Cpp_06        | 0%    | 🚧 In Progress |
+| Cpp_07        | 0%    | 🚧 In Progress |
+| Cpp_08        | 0%    | ⏳ Pending / Waiting |
+| Cpp_09        | 0%    | ⏳ Pending / Waiting |
+| Examen Rank 05| 0%    | ⏳ Pending / Waiting |
+
+### 🔵 Circle 6
+
+| Project       | Score | Status  |
+|---------------|---------|-------|
+| transcendence | 0%    | ⏳ Pending / Waiting |
+| Examen Rank 06| 0%    | ⏳ Pending / Waiting |
 
 ---
 
-## 📊 Projects in 42 Common core
+## 🏅 Skills
 
-| Project        | Circle   | Score | Status  |
-|---------------|---------|-------|---------|
-| libft         | Circle 0 | 125%  | Passed  |
-| ft_printf     | Circle 1 | 100%  | Passed  |
-| get_next_line | Circle 1 | 101%  | Passed  |
-| Born2beroot   | Circle 1 | 100%  | Passed  |
-| push_swap     | Circle 2 | 84%   | Passed  |
-| minitalk      | Circle 2 | 90%   | Passed  |
-| so_long       | Circle 2 | 110%  | Passed  |
-| Examen Rank 02| Circle 2 | 100%  | Passed  |
-| Philosophers  | Circle 3 | 100%  | Passed  |
-| minishell     | Circle 3 | 101%  | Passed  |
-| Exam Rank 03  | Circle 3 | 100%  | Passed  |
-| NetPractice   | Circle 4 | 100%  | Paseed  |
-| Cpp_00        | Cercle 4 | 80%   | Passed  |
-| Cpp_01        | Cercle 4 | 100%  | Passed  |
-| Cpp_02        | Cercle 4 | 100%  | Passed  |
-| Cpp_03        | Cercle 4 | 100%  | Passed  |
-| Cpp_04        | Cercle 4 | 80%   | Passed  |
-| cub3d         | Cercle 4 | 110%  | Passed  |
-| Exam Rank 04  | Cerlce 4 | 100%  | Passed  |
-| Inception     | Cercle 5 | 0%    | In progress |
-| webserv       | Cercle 5 | 0%    | In progress |
-| Cpp_05        | Cercle 5 | 0%    | In progress |
-| Cpp_06        | Cercle 5 | 0%    | In progress |
-| Cpp_07        | Cercle 5 | 0%    | In progress |
-| Cpp_08        | Cercle 5 | 0%    | Not started |
-| Cpp_09        | Cercle 5 | 0%    | Not started |
-| Examen Rank 05| Cercle 5 | 0%    | Not started |
-| transcendence | Cercle 6 | 0%    | Not started |
-| Examen Rank 06| Cercle 6 | 0%    | Not started |
+[![My Skills](https://skillicons.dev/icons?i=bash,c,cpp,debian,discord,github,linkedin,linux,vscode)](https://skillicons.dev)
 
 ---
 
