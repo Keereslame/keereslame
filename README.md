@@ -1,22 +1,22 @@
-# My Portfolio
-
-Welcome to my personal portfolio hosted with GitHub Pages.
-
 ## 🧑‍💻 About Me
 
 Student at **École 42**, i have developed strong skills in programming, problem-solving, and teamwork through hands-on projects.
+
+You will find below my progress in the curriculum of the 42 Lausanne school.
+
+Out of respect for the school and to continue to develop pear learning, my projects are private but I am available if you wish to discuss any exercise! 
 
 ---
 
 ## 📊 Projects in 42 Common core
 
-### 🔵 Circle 0
+### Circle 0
 
 | Project       | Score | Status  |
 |---------------|---------|-------|
 | libft         | 125%  | ✅ Passed |
 
-### 🔵 Circle 1
+### Circle 1
 
 | Project       | Score | Status  |
 |---------------|---------|-------|
@@ -24,7 +24,7 @@ Student at **École 42**, i have developed strong skills in programming, problem
 | get_next_line | 101%  | ✅ Passed |
 | Born2beroot   | 100%  | ✅ Passed |
 
-### 🔵 Circle 2
+### Circle 2
 
 | Project       | Score | Status  |
 |---------------|---------|-------|
@@ -33,7 +33,7 @@ Student at **École 42**, i have developed strong skills in programming, problem
 | so_long       | 110%  | ✅ Passed |
 | Examen Rank 02| 100%  | ✅ Passed |
 
-### 🔵 Circle 3
+### Circle 3
 
 | Project       | Score | Status  |
 |---------------|---------|-------|
@@ -41,7 +41,7 @@ Student at **École 42**, i have developed strong skills in programming, problem
 | minishell     | 101%  | ✅ Passed |
 | Exam Rank 03  | 100%  | ✅ Passed |
 
-### 🔵 Circle 4
+### Circle 4
 
 | Project       | Score | Status  |
 |---------------|---------|-------|
@@ -54,7 +54,7 @@ Student at **École 42**, i have developed strong skills in programming, problem
 | cub3d         | 110%  | ✅ Passed |
 | Exam Rank 04  | 100%  | ✅ Passed |
 
-### 🔵 Circle 5
+### Circle 5
 
 | Project       | Score | Status  |
 |---------------|---------|-------|
@@ -67,7 +67,7 @@ Student at **École 42**, i have developed strong skills in programming, problem
 | Cpp_09        | 0%    | ⏳ Pending / Waiting |
 | Examen Rank 05| 0%    | ⏳ Pending / Waiting |
 
-### 🔵 Circle 6
+### Circle 6
 
 | Project       | Score | Status  |
 |---------------|---------|-------|
@@ -90,12 +90,6 @@ Student at **École 42**, i have developed strong skills in programming, problem
 
 ---
 
-## 🌍 Website
-
-👉 https://keereslame.github.io/keereslame (in construction)
-
----
-
 ## 📬 Contact
 
 - GitHub: https://github.com/keereslame 
@@ -106,6 +100,6 @@ Student at **École 42**, i have developed strong skills in programming, problem
 
 ## 🚀 Work in Progress
 
-- Improving portfolio design  
+- Update projects already completed
 - Adding new projects  
 - Enhancing user experience  
