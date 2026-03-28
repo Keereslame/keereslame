@@ -12,9 +12,9 @@ Out of respect for the school and its peer-to-peer learning approach, I do not s
 
 ### Circle 0
 
-| Project       | Score | Status  |
-|---------------|---------|-------|
-| libft         | 125%  | ✅ Passed |
+| Project       | Score | Status  | Badge    |
+|---------------|---------|-------|----------|
+| libft         | 125%  | ✅ Passed |![libft](https://github.com/leogaudin/42_project_badges/raw/main/badges/libft.webp) |
 
 ### Circle 1
 
