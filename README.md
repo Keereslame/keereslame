@@ -62,15 +62,15 @@ Student at **École 42**, i have developed strong skills in programming, problem
 
 ## 🌍 Website
 
-👉 https://keereslame.github.io/keereslame
+👉 https://keereslame.github.io/keereslame (in construction)
 
 ---
 
 ## 📬 Contact
 
-- GitHub: https://github.com/your-username  
-- LinkedIn: (add your link)  
-- Email: (optional)  
+- GitHub: https://github.com/keereslame 
+- LinkedIn: www.linkedin.com/in/alexis-favre-code-fire
+- Email: alexisPhilfavre@icloud.com 
 
 ---
 
