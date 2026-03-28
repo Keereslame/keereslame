@@ -4,11 +4,11 @@ Student at **École 42**, i have developed strong skills in programming, problem
 
 You will find below my progress in the curriculum of the 42 Lausanne school.
 
-Out of respect for the school and to continue to develop pear learning, my projects are private but I am available if you wish to discuss any exercise! 
+Out of respect for the school and its peer-to-peer learning approach, I do not share my project code publicly. However, I am available to discuss any exercise. 
 
 ---
 
-## 📊 Projects in 42 Common core
+## 📈 Projects in 42 Common core
 
 ### Circle 0
 
@@ -82,7 +82,7 @@ Out of respect for the school and to continue to develop pear learning, my proje
 
 ---
 
-## 📈 Goals
+## 🎯 Goals
 
 - Continue improving my programming skills  
 - Build more complex and challenging projects  
@@ -93,7 +93,7 @@ Out of respect for the school and to continue to develop pear learning, my proje
 ## 📬 Contact
 
 - GitHub: https://github.com/keereslame 
-- LinkedIn: www.linkedin.com/in/alexis-favre-code-fire
+- LinkedIn: https://www.linkedin.com/in/alexis-favre-code-fire
 - Email: alexisPhilfavre@icloud.com 
 
 ---
@@ -102,4 +102,16 @@ Out of respect for the school and to continue to develop pear learning, my proje
 
 - Update projects already completed
 - Adding new projects  
-- Enhancing user experience  
+- Enhancing user experience
+
+---
+
+## 📊 Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=keereslame&show_icons=true)
+
+---
+
+## 🔥 Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=keereslame)
