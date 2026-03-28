@@ -106,12 +106,6 @@ Out of respect for the school and its peer-to-peer learning approach, I do not s
 
 ---
 
-## 📊 Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=keereslame&show_icons=true)
-
----
-
 ## 🔥 Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=keereslame)
